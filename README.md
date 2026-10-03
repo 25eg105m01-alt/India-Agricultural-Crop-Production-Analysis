@@ -48,3 +48,6 @@ An interactive Tableau dashboard is created to present the analysis and allow us
 ## Conclusion
 
 This project provides insights into India's agricultural crop production and demonstrates how data visualization can support better, data-driven decisions.
+## tableau url
+https://public.tableau.com/authoring/IndianAgriculturalCropProductionDashboard/IndianAgriculturalCropProductiondashboard#1
+
